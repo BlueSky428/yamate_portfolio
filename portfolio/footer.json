@@ -1,0 +1,292 @@
+{
+  "section": "footer",
+  "copyright": "© 2025 Yamate Sasaki. All rights reserved.",
+  "japanese_copyright": "© 2025 山手佐々木。すべての権利を保有。",
+  "quick_links": {
+    "sections": [
+      {
+        "title": "Navigation",
+        "japanese_title": "ナビゲーション",
+        "links": [
+          {
+            "text": "Home",
+            "japanese_text": "ホーム",
+            "url": "#home",
+            "japanese_url": "#home"
+          },
+          {
+            "text": "About",
+            "japanese_text": "自己紹介",
+            "url": "#about",
+            "japanese_url": "#about"
+          },
+          {
+            "text": "Experience",
+            "japanese_text": "経歴",
+            "url": "#experience",
+            "japanese_url": "#experience"
+          },
+          {
+            "text": "Projects",
+            "japanese_text": "制作実績",
+            "url": "#projects",
+            "japanese_url": "#projects"
+          },
+          {
+            "text": "Skills",
+            "japanese_text": "スキル",
+            "url": "#skills",
+            "japanese_url": "#skills"
+          },
+          {
+            "text": "Contact",
+            "japanese_text": "お問い合わせ",
+            "url": "#contact",
+            "japanese_url": "#contact"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "japanese_title": "リソース",
+        "links": [
+          {
+            "text": "Blog",
+            "japanese_text": "ブログ",
+            "url": "#blog",
+            "japanese_url": "#blog"
+          },
+          {
+            "text": "Gallery",
+            "japanese_text": "ギャラリー",
+            "url": "#gallery",
+            "japanese_url": "#gallery"
+          },
+          {
+            "text": "Resume",
+            "japanese_text": "履歴書",
+            "url": "/resume/tatsuya-kuroda-resume.pdf",
+            "japanese_url": "/resume/tatsuya-kuroda-resume-jp.pdf"
+          },
+          {
+            "text": "Testimonials",
+            "japanese_text": "推薦の言葉",
+            "url": "#testimonials",
+            "japanese_url": "#testimonials"
+          },
+          {
+            "text": "Achievements",
+            "japanese_text": "実績・資格",
+            "url": "#achievements",
+            "japanese_url": "#achievements"
+          }
+        ]
+      },
+      {
+        "title": "Connect",
+        "japanese_title": "つながる",
+        "links": [
+          {
+            "text": "Email",
+            "japanese_text": "メール",
+            "url": "https://mail.google.com/mail/?view=cm&to=yamatesasaki1@gmail.com",
+            "japanese_url": "https://mail.google.com/mail/?view=cm&to=yamatesasaki1@gmail.com",
+            "external": true
+          },
+          {
+            "text": "Telegram",
+            "japanese_text": "Telegram",
+            "url": "https://t.me/kintsugidev",
+            "japanese_url": "https://t.me/kintsugidev",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "japanese_title": "サービス",
+        "links": [
+          {
+            "text": "Web Development",
+            "japanese_text": "Web開発",
+            "url": "#contact?service=web_development",
+            "japanese_url": "#contact?service=web_development"
+          },
+          {
+            "text": "Mobile Apps",
+            "japanese_text": "モバイルアプリ",
+            "url": "#contact?service=mobile_apps",
+            "japanese_url": "#contact?service=mobile_apps"
+          },
+          {
+            "text": "Consulting",
+            "japanese_text": "コンサルティング",
+            "url": "#contact?service=consulting",
+            "japanese_url": "#contact?service=consulting"
+          },
+          {
+            "text": "Mentoring",
+            "japanese_text": "メンタリング",
+            "url": "#contact?service=mentoring",
+            "japanese_url": "#contact?service=mentoring"
+          }
+        ]
+      }
+    ]
+  },
+  "contact_info": {
+    "email": "yamatesasaki1@gmail.com",
+    "japanese_email": "yamatesasaki1@gmail.com",
+    "location": "Tokyo, Japan",
+    "japanese_location": "東京都、日本",
+    "timezone": "JST (UTC+9)",
+    "japanese_timezone": "JST (UTC+9)"
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "japanese_title": "最新情報を受け取る",
+    "description": "Get the latest insights on software development and Japanese culture",
+    "japanese_description": "ソフトウェア開発と日本文化についての最新の洞察を受け取る",
+    "placeholder": "Enter your email address",
+    "japanese_placeholder": "メールアドレスを入力してください",
+    "button_text": "Subscribe",
+    "japanese_button_text": "購読",
+    "success_message": "Thank you for subscribing!",
+    "japanese_success_message": "購読ありがとうございます！",
+    "subscribers": 1250,
+    "japanese_subscribers": "1,250"
+  },
+  "language_selector": {
+    "current_language": "English",
+    "japanese_current_language": "English",
+    "available_languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "japanese_name": "英語",
+        "flag": "🇺🇸",
+        "japanese_flag": "🇺🇸"
+      },
+      {
+        "code": "ja",
+        "name": "日本語",
+        "japanese_name": "日本語",
+        "flag": "🇯🇵",
+        "japanese_flag": "🇯🇵"
+      }
+    ]
+  },
+  "back_to_top": {
+    "text": "Back to Top",
+    "japanese_text": "トップに戻る",
+    "icon": "arrow-up"
+  },
+  "privacy_policy": {
+    "text": "Privacy Policy",
+    "japanese_text": "プライバシーポリシー",
+    "url": "/privacy-policy",
+    "japanese_url": "/privacy-policy-jp"
+  },
+  "terms_of_service": {
+    "text": "Terms of Service",
+    "japanese_text": "利用規約",
+    "url": "/terms-of-service",
+    "japanese_url": "/terms-of-service-jp"
+  },
+  "sitemap": {
+    "text": "Sitemap",
+    "japanese_text": "サイトマップ",
+    "url": "/sitemap.xml",
+    "japanese_url": "/sitemap-jp.xml"
+  },
+  "rss_feed": {
+    "text": "RSS Feed",
+    "japanese_text": "RSSフィード",
+    "url": "/blog/rss.xml",
+    "japanese_url": "/blog/rss-jp.xml"
+  },
+  "accessibility": {
+    "text": "Accessibility Statement",
+    "japanese_text": "アクセシビリティステートメント",
+    "url": "/accessibility",
+    "japanese_url": "/accessibility-jp"
+  },
+  "performance": {
+    "text": "Performance",
+    "japanese_text": "パフォーマンス",
+    "metrics": {
+      "load_time": "< 2s",
+      "japanese_load_time": "< 2秒",
+      "lighthouse_score": "95+",
+      "japanese_lighthouse_score": "95+",
+      "accessibility_score": "100",
+      "japanese_accessibility_score": "100"
+    }
+  },
+  "technologies": {
+    "title": "Built With",
+    "japanese_title": "使用技術",
+    "technologies": [
+      {
+        "name": "React",
+        "japanese_name": "React",
+        "url": "https://reactjs.org",
+        "icon": "react"
+      },
+      {
+        "name": "Next.js",
+        "japanese_name": "Next.js",
+        "url": "https://nextjs.org",
+        "icon": "nextjs"
+      },
+      {
+        "name": "TypeScript",
+        "japanese_name": "TypeScript",
+        "url": "https://typescriptlang.org",
+        "icon": "typescript"
+      },
+      {
+        "name": "Tailwind CSS",
+        "japanese_name": "Tailwind CSS",
+        "url": "https://tailwindcss.com",
+        "icon": "tailwind"
+      },
+      {
+        "name": "Vercel",
+        "japanese_name": "Vercel",
+        "url": "https://vercel.com",
+        "icon": "vercel"
+      }
+    ]
+  },
+  "last_updated": "2025-01-15",
+  "japanese_last_updated": "2025年1月15日",
+  "version": "2.1.0",
+  "japanese_version": "2.1.0",
+  "build_info": {
+    "build_date": "2025-01-15T10:30:00Z",
+    "japanese_build_date": "2025年1月15日 10:30:00 UTC",
+    "git_commit": "a1b2c3d4e5f6",
+    "japanese_git_commit": "a1b2c3d4e5f6",
+    "environment": "production",
+    "japanese_environment": "本番環境"
+  },
+  "analytics": {
+    "google_analytics": "GA4-XXXXXXXXX",
+    "japanese_google_analytics": "GA4-XXXXXXXXX",
+    "privacy_compliant": true,
+    "japanese_privacy_compliant": true,
+    "cookie_consent": "Required",
+    "japanese_cookie_consent": "必須"
+  },
+  "social_proof": {
+    "github_stars": 239,
+    "japanese_github_stars": "239",
+    "linkedin_connections": 500,
+    "japanese_linkedin_connections": "500",
+    "projects_completed": 50,
+    "japanese_projects_completed": "50",
+    "years_experience": 5,
+    "japanese_years_experience": "5"
+  }
+}
