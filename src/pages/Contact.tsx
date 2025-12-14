@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 import { useLanguage } from '../contexts/LanguageContext'
-import { loadPortfolioData, getLocalizedText, getLocalizedArray } from '../utils/dataLoader'
+import { loadPortfolioData, getLocalizedText } from '../utils/dataLoader'
 import { 
   Mail, 
   MapPin, 
