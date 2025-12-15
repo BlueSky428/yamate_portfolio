@@ -73,7 +73,7 @@ const Footer: React.FC = () => {
                 <EmailIcon className="w-5 h-5" />
               </a>
               <a
-                href="https://t.me/kintsugidev"
+                href="https://t.me/kintsugi320"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-ocean-600 transition-colors duration-200"
